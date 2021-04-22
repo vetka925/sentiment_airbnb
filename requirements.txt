@@ -1,0 +1,6 @@
+jupyter
+spacy
+gensim
+kaggle
+vaderSentiment
+scikit-learn
