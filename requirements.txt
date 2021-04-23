@@ -4,3 +4,8 @@ gensim
 kaggle
 vaderSentiment
 scikit-learn
+pandas
+langdetect
+matplotlib
+seaborn
+nltk

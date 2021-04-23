@@ -1,3 +1,4 @@
 data/
 venv/
 kaggle.json
+.ipynb_checkpoints
